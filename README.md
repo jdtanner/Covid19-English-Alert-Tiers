@@ -9,7 +9,7 @@ Data taken from:
 
 Last updated: 15th October 2020
 
-**Important Notes:**
+**Important Notes**
 
 Several local authority names are incorrect on the gov.uk website, and do not sure the standard nomenclature:
 
