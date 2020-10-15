@@ -15,7 +15,9 @@ Last updated: 15th October 2020
 Several local authority names are incorrect on the gov.uk website, and do not sure the standard nomenclature:
 
 *County Durham
+
 Newcastle Upon Tyne
+
 Nottingham City*
 
 Please feel free to use this file without any attribution; it is provided *as is* and will be updated when the main list on the gov.uk website is updated. 
