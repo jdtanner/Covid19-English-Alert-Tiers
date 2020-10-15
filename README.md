@@ -11,7 +11,7 @@ Tiers are presented both as their numerical value and their description as provi
 
 **Important Notes**
 
-Several local authority names are incorrect on the gov.uk website, and do not sure the standard nomenclature:
+Several local authority names are incorrect on the gov.uk website, and do not use the standard nomenclature (what a surprise):
 
 - County Durham
 - Newcastle Upon Tyne
