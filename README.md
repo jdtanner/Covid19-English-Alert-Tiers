@@ -1,6 +1,6 @@
 # Covid19 English Alert Tiers
 
-This is a simple file that allows users to use standard ward and local authority names and codes to determine which COVID altert level (tier) each area falls within. Additional population estimates from the mid-year ONS data for 2019 are provided for each ward for basic demographic purposes. 
+This is a simple file that allows users to use standard ward and local authority names and codes to determine which COVID altert level (tier) each area falls within. An additional file is available with ward population estimates from the mid-year ONS data for 2019 for basic demographic purposes. 
 
 Data taken from:
 
