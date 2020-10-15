@@ -5,6 +5,7 @@ This is a simple file that allows users to use standard ward and local authority
 Data taken from:
 
 https://www.gov.uk/guidance/full-list-of-local-covid-alert-levels-by-area
+
 https://geoportal.statistics.gov.uk/datasets/ward-to-local-authority-district-december-2019-lookup-in-the-united-kingdom
 
 Last updated: 15th October 2020
