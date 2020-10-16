@@ -1,2 +1,3 @@
 **16th October 2020**
-Added Lancashire into "Very High" tier. 
+Added: Lancashire into "Very High" tier. 
+Added: JSON files as an array...might be useful to somebody!?!
