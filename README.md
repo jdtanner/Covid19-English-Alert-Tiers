@@ -18,4 +18,4 @@ Several local authority names are incorrect on the gov.uk website, and do not us
 
 Please feel free to use this file without any attribution; it is provided *as is* and will be updated when the main list on the gov.uk website is updated. 
 
-**Last updated: 15th October 2020**
+**Last updated: 16th October 2020**
