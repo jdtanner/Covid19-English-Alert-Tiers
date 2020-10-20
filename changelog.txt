@@ -1,3 +1,7 @@
+**20th October 2020**
+Added: Greater Manchester into "Very High" tier.
+Removed: CSV/JSON files to make my life easier.
+
 **16th October 2020**
 Added: Lancashire into "Very High" tier. 
 Added: JSON files as an array...might be useful to somebody!?!
