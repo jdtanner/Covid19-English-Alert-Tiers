@@ -4,7 +4,7 @@ These files allow users to refer to standard ward and local authority names and 
 
 Data taken from:
 
-- https://www.gov.uk/guidance/full-list-of-local-covid-alert-levels-by-area  
+- https://www.gov.uk/guidance/full-list-of-local-covid-alert-levels-by-area
 - https://geoportal.statistics.gov.uk/datasets/ward-to-local-authority-district-december-2019-lookup-in-the-united-kingdom
 - https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/wardlevelmidyearpopulationestimatesexperimental
 
@@ -18,4 +18,4 @@ Several local authority names are incorrect on the gov.uk website, and do not us
 
 Please feel free to use this file without any attribution; it is provided *as is* and will be updated when the main list on the gov.uk website is updated. 
 
-**Last updated: 20th October 2020**
+**Last updated: 24th October 2020**
