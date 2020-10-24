@@ -1,12 +1,18 @@
 **24th October 2020**
+
+
 Added: Slough, Stoke-on-Trent and Coventry into "High" tier.
 Added: South Yorkshire into "Very High" tier.
 Added: CSV files as I needed them for QGIS :)
 
 **20th October 2020**
+
+
 Added: Greater Manchester into "Very High" tier.
 Removed: CSV/JSON files to make my life easier.
 
 **16th October 2020**
+
+
 Added: Lancashire into "Very High" tier. 
 Added: JSON files as an array...might be useful to somebody!?!
