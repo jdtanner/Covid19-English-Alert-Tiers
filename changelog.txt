@@ -1,3 +1,7 @@
+**30th October 2020**
+Added: Nottinghamshire into "Very High" tier.
+Removed: Population data as it was a ballache to edit multiple files. 
+
 **27th October 2020**
 Added: Warrington into "Very High" tier.
 
